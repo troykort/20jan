@@ -1,0 +1,8 @@
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.csproj.AssemblyReference.cache
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.AssemblyInfoInputs.cache
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.AssemblyInfo.cs
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.csproj.CoreCompileInputs.cache
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.MvcApplicationPartsAssemblyInfo.cache
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.RazorAssemblyInfo.cache
+C:\AllProjects\TroyProject\obj\Debug\net7.0\TroyProject.RazorAssemblyInfo.cs
